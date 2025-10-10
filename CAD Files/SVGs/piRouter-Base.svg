@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="207.06mm" height="207.06mm" viewBox="0 0 207.06 207.06" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Rectangle" transform="translate(2.030000,205.030000) scale(1,-1)">
+<path id="Rectangle_f0000"  d="M 0.0 0.0 L 203.0 0.0 L 203.0 203.0 L 0.0 203.0 L 0.0 0.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<title>b'Base'</title>
+</g>
+<g id="Circle" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="7.0" cy="7.0" r="2.185" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<title>b'Standoff_Mount-Bottom_Left-Drill_Hole'</title>
+</g>
+<g id="Circle001" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="196.0" cy="7.0" r="2.185" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Standoff_Mount-Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle002" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="7.0" cy="196.0" r="2.1825" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Standoff_Mount-Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle003" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="196.0" cy="196.0" r="2.1825" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Standoff_Mount-Top_Right-Drill_Mount'</title>
+</g>
+<g id="Circle004" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="5.0" cy="49.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'PWM_Controller-Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle005" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="31.0" cy="49.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'PWM_Controller-Top_Right-Drill_Mount'</title>
+</g>
+<g id="Circle006" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="5.0" cy="23.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'PWM_Controller-Bottom_Left-Drill_Mount'</title>
+</g>
+<g id="Circle007" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="31.0" cy="23.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'PWM_Controller-Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle008" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="99.0" cy="142.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'RPI_5-Top_Right-Drill_Mount'</title>
+</g>
+<g id="Circle009" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="99.0" cy="84.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'RPI_5-Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle010" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="50.0" cy="84.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'RPI_5-Bottom_Left-Drill_Mount'</title>
+</g>
+<g id="Circle011" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="50.0" cy="142.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'RPI_5-Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle012" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="25.0" cy="189.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Capacitor_Proto_Board-Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle013" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="66.0" cy="165.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Capacitor_Proto_Board-Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle014" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="93.0" cy="157.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Boost_Converter-Bottom_Left-Drill_Mount'</title>
+</g>
+<g id="Circle015" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="155.0" cy="157.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Boost_Converter-Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle016" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="155.0" cy="194.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Boost_Converter-Top_Right-Drill_Mount'</title>
+</g>
+<g id="Circle017" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="93.0" cy="194.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Boost_Converter-Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle018" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="177.0" cy="142.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Pi_Zero-Top_Right-Drill_Mount'</title>
+</g>
+<g id="Circle019" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="177.0" cy="118.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Pi_Zero-Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle020" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="118.0" cy="118.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Pi_Zero-Bottom_Left-Drill_Mount'</title>
+</g>
+<g id="Circle021" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="118.0" cy="142.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Pi_Zero-Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle027" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="110.0" cy="31.0" r="2.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Terminal_Bus-Left-Drill_Mount'</title>
+</g>
+<g id="Circle028" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="190.0" cy="31.0" r="2.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Terminal_Bus-Right-Drill_Mount'</title>
+</g>
+<g id="Circle029" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="103.0" cy="5.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle029'</title>
+</g>
+<g id="Circle031" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="167.0" cy="49.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle031'</title>
+</g>
+<g id="Circle032" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="103.0" cy="49.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle032'</title>
+</g>
+<g id="Circle033" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="140.0" cy="102.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<title>b'Circle033'</title>
+</g>
+<g id="Circle034" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="140.0" cy="69.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<title>b'Circle034'</title>
+</g>
+<g id="Circle035" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="183.0" cy="102.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<title>b'Circle035'</title>
+</g>
+<g id="Circle036" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="183.0" cy="69.0" r="1.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980"/>
+<title>b'Circle036'</title>
+</g>
+</svg>

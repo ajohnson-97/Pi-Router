@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U1",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
+"U2",1,"PCF8574-based, 35 (0x23) LCD 16 x 2 (I2C)"
+"SERVO1",1,"Positional Micro Servo"
+"D1, D2, D3, D4, D5, D6, D7, D8",8,"Red LED"
+"D9",1,"RCBG LED RGB"
+"S1, S2, S3, S4, S5, S6, S7, S8, S9",9," Slideswitch"
+"C3",1,"100 uF, 25 V Polarized Capacitor"
+"U3",1," Arduino Uno R3"
+"P1",1,"5 , 1  Power Supply"

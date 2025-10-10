@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="213.18mm" height="162.58mm" viewBox="0 0 213.18 162.58" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Rectangle" transform="translate(2.090000,160.490000) scale(1,-1)">
+<path id="Rectangle_f0000"  d="M 0.0 0.0 L 209.0 0.0 L 209.0 158.4 L 0.0 158.4 L 0.0 0.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<title>b'Front-Panel'</title>
+</g>
+<g id="Rectangle001" transform="translate(2.090000,160.490000) scale(1,-1)">
+<path id="Rectangle001_w0000"  d="M 30.0 24.0 L 90.0 24.0 L 90.0 42.0 L 30.0 42.0 L 30.0 24.0 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Ethernet-Jack_Inner-Cutout'</title>
+</g>
+<g id="Circle" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="30.0" cy="18.0" r="0.99212" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Ethernet-Jack_Bottom-Left_Drill-Hole'</title>
+</g>
+<g id="Circle001" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="30.0" cy="48.0" r="0.99212" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Ethernet-Jack_Top-Left_Drill-Hole'</title>
+</g>
+<g id="Circle002" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="90.0" cy="48.0" r="0.99212" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Ethernet-Jack_Top-Right_Drill-Hole'</title>
+</g>
+<g id="Circle003" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="90.0" cy="18.0" r="0.99212" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Ethernet-Jack_Bottom-Right_Drill-Hole'</title>
+</g>
+<g id="Circle004" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="22.5" cy="72.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Bottom-LCD_Bottom-Left_Drill-Hole'</title>
+</g>
+<g id="Circle005" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="22.5" cy="103.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Bottom-LCD_Top-Left_Drill-Hole'</title>
+</g>
+<g id="Circle006" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="97.5" cy="103.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Bottom-LCD-Top-Right_Drill-Hole'</title>
+</g>
+<g id="Circle007" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="97.5" cy="72.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Bottom-LCD_Bottom-Right_Drill-Hole'</title>
+</g>
+<g id="Circle008" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="22.5" cy="112.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Top-LCD_Bottom-Left_Drill-Hole'</title>
+</g>
+<g id="Circle009" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="22.5" cy="143.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Top-LCD_Top-Left_Drill-Hole'</title>
+</g>
+<g id="Circle010" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="97.5" cy="112.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Top-LCD_Bottom-Right_Drill-Hole'</title>
+</g>
+<g id="Circle011" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="97.5" cy="143.5" r="1.25" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Top-LCD_Top-Right_Drill-Hole'</title>
+</g>
+<g id="Circle012" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="127.0" cy="30.0" r="10.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Power-Switch_Drill-Hole_1'</title>
+</g>
+<g id="Circle013" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="152.0" cy="30.0" r="10.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Power-Switch_Drill-Hole_2'</title>
+</g>
+<g id="Circle014" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="177.0" cy="30.0" r="10.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Power-Switch_Drill-Hole_3'</title>
+</g>
+<g id="Circle017" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="181.0" cy="92.0" r="10.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Key-Switch_Drill-Hole'</title>
+</g>
+<g id="Circle016" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="117.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_1'</title>
+</g>
+<g id="Circle018" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="127.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_2'</title>
+</g>
+<g id="Circle019" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="137.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_3'</title>
+</g>
+<g id="Circle020" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="147.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_4'</title>
+</g>
+<g id="Circle021" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="157.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_5'</title>
+</g>
+<g id="Circle022" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="167.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_6'</title>
+</g>
+<g id="Circle023" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="177.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_7'</title>
+</g>
+<g id="Circle024" transform="translate(2.090000,160.490000) scale(1,-1)">
+<circle cx="187.0" cy="50.0" r="2.778" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Toggle-Switch_Drill-Hole_8'</title>
+</g>
+<g id="power" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'power'</title>
+</g>
+<g id="dns" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'dns'</title>
+</g>
+<g id="wan" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'wan'</title>
+</g>
+<g id="lcd" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'lcd'</title>
+</g>
+<g id="lan" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'lan'</title>
+</g>
+<g id="logo" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'logo'</title>
+</g>
+<g id="admincontrol" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'admincontrol'</title>
+</g>
+<g id="pisecondlogo" transform="translate(2.090000,160.490000) scale(1,-1)">
+<title>b'pisecondlogo'</title>
+</g>
+<g id="Rectangle005" transform="translate(2.090000,160.490000) scale(1,-1)">
+<path id="Rectangle005_w0000"  d="M 24.0 115.0 L 95.0 115.0 L 95.0 139.0 L 24.0 139.0 L 24.0 115.0 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Rectangle005'</title>
+</g>
+<g id="Rectangle006" transform="translate(2.090000,160.490000) scale(1,-1)">
+<path id="Rectangle006_w0000"  d="M 24.0 75.0 L 95.0 75.0 L 95.0 99.0 L 24.0 99.0 L 24.0 75.0 " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none;fill-opacity:1;fill-rule: evenodd"/>
+<title>b'Rectangle006'</title>
+</g>
+</svg>

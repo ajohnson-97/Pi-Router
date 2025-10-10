@@ -1,0 +1,1 @@
+Excludes things like jumper wires, proto-board, header pins, terminal blocks... Very Basic generated list from tinkerCAD and not a complete list of parts in my final project. Also doesn't include the structure, just for the electrical componants regarding the password system, not the main boards.

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="207.06mm" height="252.98500305175781mm" viewBox="0 0 207.06 252.98500305175781" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<g id="Circle001" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="154.0" cy="154.0" r="2.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Top_Right-Drill_Mount'</title>
+</g>
+<g id="Circle002" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="154.0" cy="49.0" r="2.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Bottom_Right-Drill_Mount'</title>
+</g>
+<g id="Circle003" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="49.0" cy="154.0" r="2.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Top_Left-Drill_Mount'</title>
+</g>
+<g id="Circle004" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="49.0" cy="49.0" r="2.5" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Bottom_Left-Drill_Mount'</title>
+</g>
+<g id="Circle" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="101.5" cy="101.5" r="60.0" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Fan_Hole'</title>
+</g>
+<g id="Circle005" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="7.0" cy="7.0" r="2.19" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle005'</title>
+</g>
+<g id="Circle006" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="196.0" cy="7.0" r="2.19" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle006'</title>
+</g>
+<g id="Circle007" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="7.0" cy="196.0" r="2.19" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle007'</title>
+</g>
+<g id="Circle008" transform="translate(2.030000,205.030000) scale(1,-1)">
+<circle cx="196.0" cy="196.0" r="2.19" stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:none"/>
+<title>b'Circle008'</title>
+</g>
+<g id="fanborder" transform="translate(2.030000,205.030000) scale(1,-1)">
+<title>b'fanborder'</title>
+</g>
+<g id="Rectangle" transform="translate(2.030000,205.030000) scale(1,-1)">
+<path id="Rectangle_f0000"  d="M 0.0 0.0 L 203.0 0.0 L 203.0 203.0 L 0.0 203.0 L 0.0 0.0 Z " stroke="#191919" stroke-width="0.7 px" style="stroke-width:0.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square;fill:#727980;fill-opacity:1.0;fill-rule: evenodd"/>
+<title>b'Top'</title>
+</g>
+</svg>
