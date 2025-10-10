@@ -15,3 +15,4 @@ However, all images, branding, and logo assets (found in the /assets directory) 
 
 - The code in this repository is licensed under the [MIT License](./LICENSE).
 - All images, logos, and branding assets are licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [ASSETS_LICENSE.txt](./ASSETS_LICENSE.txt) for details.
+<br><br>
