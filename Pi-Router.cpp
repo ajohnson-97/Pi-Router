@@ -2,7 +2,7 @@
 // https://github.com/ajohnson-97/Pi-Router
 // Written By: Anthony Johnson
 
-// Upload while bypassing the bootloader to speed up onset after powering on the device.
+// Upload while bypassing the boot-loader to speed up onset after powering on the device.
 #include <Servo.h>
 #include <LiquidCrystal_I2C.h>
 
@@ -14,7 +14,7 @@ Servo myServos;
 int servoLocked = 90;
 int servoUnLocked = 0;
 
-// Set a variable for the pin connected to the keyswitch that will act as the master switch (must be digital pin 1 or 2 on an arduino if using it as a hardware interrupt).
+// Set a variable for the pin connected to the key-switch that will act as the master switch (must be digital pin 1 or 2 on an arduino if using it as a hardware interrupt).
 int keySwitch = 2;
 int ledPins[] = {3, 4, 5, 6, 7, 8, 9, 10}; // Assigned pin numbers to variables, stored in a list. 
 int correctPattern[] = {HIGH, HIGH, LOW, LOW, HIGH, HIGH, LOW, HIGH}; // Reference pattern to compare the list of input pins to determine if that password is correct.
@@ -63,7 +63,7 @@ void loop()
   digitalWrite(redPinLED, LOW);
   welcomeMessage();
 
-  if (digitalRead(keySwitch) == LOW) { // If the keyswitch is engaged (value will register as low when engaged because the pull-up resistor keeps the pin at 5V when the circuit is open).
+  if (digitalRead(keySwitch) == LOW) { // If the key-switch is engaged (value will register as low when engaged because the pull-up resistor keeps the pin at 5V when the circuit is open).
     if (patternCheck()) { // If the password is incorrect.
       myServos.write(servoUnLocked);
       successMessage();
