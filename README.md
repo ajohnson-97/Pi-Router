@@ -4,7 +4,8 @@ Custom-built dual 2.5Gb ethernet and WIFI 6e router/dns-sinkhole using Raspberry
 ## License
 
 - The code in this repository is licensed under the [MIT License](./LICENSE).
-- All images, logos, and branding assets are licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). See [ASSETS_LICENSE.txt](./ASSETS_LICENSE.txt) for details.
+- All images, logos, and branding assets are licensed under the [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/). <br>
+- See [ASSETS_LICENSE.txt](./ASSETS_LICENSE.txt) for details.
 <br><br>
 ![pirouter_Logo (Copy).png](https://github.com/user-attachments/assets/a3943d81-8393-4c5a-ad0b-a60713afeba7)
 <br><br>
